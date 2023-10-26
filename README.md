@@ -7,8 +7,8 @@ This project demonstrates image classification for Red Rot Disease in sugarcane 
 - It consists of 3 folders - Images/Healthy(427-images) , Images/Unhealthy(437-images) , test set(115-images)
   <table>
   <tr>
-    <td><img src="Readme_images/healthy.jpg" alt="Image 1"></td>
-    <td><img src="Readme_images/unhealthy.jpg" alt="Image 2"></td>
+    <td><img src="src/images/healthy.jpg" alt="Image 1"></td>
+    <td><img src="src/images/unhealthy.jpg" alt="Image 2"></td>
   </tr>
 </table>
 
